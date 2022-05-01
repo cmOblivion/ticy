@@ -1,11 +1,11 @@
 {
-  "name": "ticy",
-  "version": "1.1.13",
-  "description": "A front-end javascript framework.",
-  "main": "dist/index.min.js",
-  "scripts": {
-    
-  },
-  "author": "cm (Github:cmOblivion)",
-  "license": "MIT"
+	"name": "ticy",
+	"version": "1.1.13",
+	"description": "A front-end javascript framework.",
+	"main": "dist/index.min.js",
+	"scripts": {
+		
+	},
+	"author": "cm (Github:cmOblivion)",
+	"license": "MIT"
 }
